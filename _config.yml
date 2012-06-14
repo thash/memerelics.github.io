@@ -1,0 +1,9 @@
+destination: ./_site
+auto:        false #because don't use as server, just command
+#lsi:         false
+server_port: 4000
+#pygments:    true
+#markdown:    rdiscount
+#permalink:   /:categories/:year:month:day-:title.html
+#permalink:   /:year:month:day-:title/
+exclude: Gemfile, Gemfile.lock, bundle, README.md
