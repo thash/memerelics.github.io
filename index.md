@@ -1,11 +1,6 @@
 ---
 layout: default
-title: いんでっくすだよ
+title: memerelics.github.io
 ---
 
-mark
-========
-
-hey
-
-
+* [CTMCP](/ctmcp)
